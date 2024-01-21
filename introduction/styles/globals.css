@@ -26,5 +26,6 @@ button {
 }
 
 body {
+  position: relative;
   overflow-x: hidden;
 }

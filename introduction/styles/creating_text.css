@@ -1,9 +1,12 @@
 #title {
-  position: absolute;
-  top: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
   text-align: center;
   z-index: 100;
   display: block;
-  color: white;
+  color: #181818;
+  padding: 1rem;
+  background-color: aliceblue;
 }
